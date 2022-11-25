@@ -1,0 +1,778 @@
+﻿1,Manuel Neuer,Portero,Bayern Múnich,Alemania
+2,Marc-Andre Ter Stegen,Portero,Barcelona (España),Alemania
+3,Kevin Trapp,Portero,Eintracht Frankfurt,Alemania
+4,Armel Bella-Kotchap,Defensor,Southampton (Inglaterra),Alemania
+5,Matthias Ginter,Defensor,Friburgo,Alemania
+6,Cristian Gunter,Defensor,Friburgo,Alemania
+7,Thilo Kehrer,Defensor,West Ham (Inglaterra),Alemania
+8,Lukas Klostermann,Defensor,RB Leipzig,Alemania
+9,David Raum,Defensor,RB Leipzig,Alemania
+10,Antonio Rudiger,Defensor,Real Madrid (España),Alemania
+11,Nico Schlotterback,Defensor,Borussia Dortmund,Alemania
+12,Niklas Sule,Defensor,Borussia Dortmund,Alemania
+13,Mario Gotze,Mediocampista,Eintracht Frankfurt,Alemania
+14,Julian Brandt,Mediocampista,Borussia Dortmund,Alemania
+15,Jamal Musiala,Mediocampista,Bayern Múnich,Alemania
+16,Leon Goretzka,Mediocampista,Bayern Múnich,Alemania
+17,Ilkay Gundogan,Mediocampista,Manchester City (Inglaterra),Alemania
+18,Kai Havertz,Mediocampista,Chelsea (Inglaterra),Alemania
+19,Jonas Hofmann,Mediocampista,Borussia Monchengladbach,Alemania
+20,Joshua Kimmich,Mediocampista,Bayern Múnich,Alemania
+21,Youssoufa Moukoko,Delantero,Borussia Dortmund,Alemania
+22,Thomas Muller,Delantero,Bayern Múnich,Alemania
+23,Leroy Sané,Delantero,Bayern Múnich,Alemania
+24,Niclas Fullkrug,Delantero,Werder Bremen,Alemania
+25,Serge Gnabry,Delantero,Bayern Múnich,Alemania
+26,Karim Adeyemi,Delantero,Borussia Dortmund,Alemania
+27,Mohammed Al-Owais,Portero,Al-Hilal,Arabia
+28,Mohammed Al Rubaei,Portero,Al-Ahli,Arabia
+29,Nawaf Al-Aqidi,Portero,Al-Nassr,Arabia
+30,Yasser Al-Shahrani,Defensor,Al-Hilal,Arabia
+31,Mohammed Al-Breik,Defensor,Al-Hilal,Arabia
+32,Ali Al-Bulaihi,Defensor,Al-Hilal,Arabia
+33,Sultan Al-Ghanam,Defensor,Al-Nassr,Arabia
+34,Saud Abdulhamid,Defensor,Al-Hilal,Arabia
+35,Abdulelah Al-Amri,Defensor,Al-Nassr,Arabia
+36,Hassan Tambakti,Defensor,Al-Shabab,Arabia
+37,Abdullah Madu,Defensor,Al-Nassr,Arabia
+38,Salem Al-Dawsari,Mediocampista,Al-Hilal,Arabia
+39,Salman Al-Faraj,Mediocampista,Al-Hilal,Arabia
+40,Abdullah Otayf,Mediocampista,Al-Hilal,Arabia
+41,Hattan Bahebri,Mediocampista,Al-Shabab,Arabia
+42,Mohamed Kanno,Mediocampista,Al-Hilal,Arabia
+43,Abdulellah Al-Malki,Mediocampista,Al-Hilal,Arabia
+44,Sami Al-Najei,Mediocampista,Al-Nassr,Arabia
+45,Ali Al-Hassan,Mediocampista,Al-Nassr,Arabia
+46,Nasser Al-Dawsari,Mediocampista,Al-Hilal,Arabia
+47,Riyadh Sharahili,Mediocampista,Abha,Arabia
+48,Abdulrahman Al-Aboud,Mediocampista,Al-Ittihad,Arabia
+49,Firas Al-Buraikan,Delantero,Al-Fateh,Arabia
+50,Nawaf Al-Abed*,Delantero,Al-Shabab,Arabia
+51,Saleh Al-Shehri,Delantero,Al-Hilal,Arabia
+52,Haitham Asiri,Delantero,Al-Hilal,Arabia
+53,Emiliano Martínez,Arquero,Aston Villa (Inglaterra),Argentina
+54,Gerónimo Rulli,Arquero,Villarreal (España),Argentina
+55,Franco Armani,Arquero,River Plate,Argentina
+56,Gonzalo Montiel,Defensor,Sevilla (España),Argentina
+57,Nicolás Otamendi,Defensor,Benfica (Portugal),Argentina
+58,Nahuel Molina Lucero,Defensor,Atlético Madrid (España),Argentina
+59,Cristian Romero,Defensor,Tottenham (Inglaterra),Argentina
+60,Germán Pezzella,Defensor,Betis (España),Argentina
+61,Lisandro Martínez,Defensor,Manchester United (Inglaterra),Argentina
+62,Marcos Acuña,Defensor,Sevilla (España),Argentina
+63,Nicolás Tagliafico,Defensor,Lyon (Francia),Argentina
+64,Juan Foyth,Defensor,Villarreal (España),Argentina
+65,Leandro Paredes,Mediocampista,Juventus (Italia),Argentina
+66,Guido Rodriguez,Mediocampista,Betis (España),Argentina
+67,Rodrigo De Paul,Mediocampista,Atlético Madrid (España),Argentina
+68,Exequiel Palacios,Mediocampista,Bayer Leverkusen (Alemania),Argentina
+69,Alexis MacAllister,Mediocampista,Brighton (Inglaterra),Argentina
+70,Enzo Fernández,Mediocampista,Benfica (Portugal),Argentina
+71,Ángel Di María,Mediocampista,Juventus (Italia),Argentina
+72,Alejandro Gómez,Mediocampista,Sevilla (España),Argentina
+73,Thiago Almada**,Mediocampista,Atlanta United (Estados Unidos),Argentina
+74,Ángel Correa*,Delantero,Atlético de Madrid (España),Argentina
+75,Julián Álvarez,Delantero,Manchester City (Inglaterra),Argentina
+76,Lautaro Martínez,Delantero,Inter (Italia),Argentina
+77,Lionel Messi,Delantero,Paris Saint-Germain (Francia),Argentina
+78,Paulo Dybala,Delantero,Roma (Italia),Argentina
+79,Mathew Ryan,Portero,FC Copenhagen (Dinamarca),Australia
+80,Andrew Redmayne,Portero,Sydney FC,Australia
+81,Danny Vukovic,Portero,Central Coast Mariners,Australia
+82,Aziz Behich,Defensor,Dundee United (Escocia),Australia
+83,Milos Degenek,Defensor,Columbus Crew (Estados Unidos),Australia
+84,Thomas Deng,Defensor,Aibirex Niigata (Japón),Australia
+85,Joel King,Defensor,Odense Boldklub (Dinamarca),Australia
+86,Nathaniel Atkinson,Defensor,Hearts (Escocia),Australia
+87,Fran Karacic,Defensor,Brescia (Italia),Australia
+88,Harry Souttar,Defensor,Stoke City (inglaterra),Australia
+89,Kye Rowles,Defensor,Hearts (Escocia),Australia
+90,Craig Goodwin,Defensor,Adelaide United,Australia
+91,Aaron Mooy,Volante,Celtic (Escocia),Australia
+92,Jackson Irvine,Volante,St. Pauli (Alemania),Australia
+93,Ajdin Hrustic,Volante,Hellas Verona (Italia),Australia
+94,Bailey Wright,Volante,Sunderland (Inglaterra),Australia
+95,Cameron Devlin,Volante,Hearts (Escocia),Australia
+96,Riley McGree,Volante,Middlesbrough (Inglaterra),Australia
+97,Keanu Baccus,Volante,St. Mirren (Escocia),Australia
+98,Awer Mabil,Delantero,Cádiz (España),Australia
+99,Mathew Leckie,Delantero,Melbourne City,Australia
+100,Marco Tilio,Delantero,Melbourne City,Australia
+101,James Maclaren,Delantero,Melbourne City,Australia
+102,Jason Cummings,Delantero,Central Coast Mariners,Australia
+103,Mitchell Duke,Delantero,Fagiano Okayama (Japón),Australia
+104,Garang Kuol,Delantero,Central Coast Mariners,Australia
+105,Thibaut Courtois,Portero,Real Madrid (España),Belgica
+106,Simon Mignolet,Portero,Brujas,Belgica
+107,Koen Casteels,Portero,Wolfsburgo (Alemania),Belgica
+108,Toby Alderweireld,Defensor,Royal Antwerp,Belgica
+109,Arthur Theate,Defensor,Stade Rennes (Francia),Belgica
+110,Wout Faes,Defensor,Leicester City (Inglaterra),Belgica
+111,Jan Vertonghen,Defensor,Anderlecht,Belgica
+112,Thomas Meunier,Defensor,Borussia Dortmund,Belgica
+113,Timothy Castagne,Defensor,Leicester City (Inglaterra),Belgica
+114,Zeno Debast,Defensor,Anderlecht,Belgica
+115,Kevin de Bruyne,Mediocampista,Manchester City (Inglaterra),Belgica
+116,Hans Vanaken,Mediocampista,Brujas,Belgica
+117,Youri Tielemans,Mediocampista,Leicester City (Inglaterra),Belgica
+118,Leander Dendoncker,Mediocampista,Aston Villa (Inglaterra),Belgica
+119,Amadou Onana,Mediocampista,Everton (Inglaterra),Belgica
+120,Yannick Carrasco,Mediocampista,Atlético de Madrid (España),Belgica
+121,Axel Witsel,Mediocampista,Atlético de Madrid (España),Belgica
+122,Charles de Ketelaere,Mediocampista,Milan (Italia),Belgica
+123,Leandro Trossard,Mediocampista,Brighton (Inglaterra),Belgica
+124,Thorgan Hazard,Mediocampista,Borussia Dortmund (Alemania),Belgica
+125,Romelu Lukaku,Delantero,Inter (Italia),Belgica
+126,Michy Batshuayi,Delantero,Fenerbahce (Turquía),Belgica
+127,Dries Mertens,Delantero,Galatasaray (Turquía),Belgica
+128,Eden Hazard,Delantero,Real Madrid (España),Belgica
+129,Lois Openda,Delantero,Lens (Francia),Belgica
+130,Jeremy Doku,Delantero,Stade Rennes (Francia),Belgica
+131,Alisson,Arquero,Liverpool (Inglaterra),Brasil
+132,Éderson,Arquero,Manchester City (Inglaterra),Brasil
+133,Weverton,Arquero,Palmeiras,Brasil
+134,Dani Alves,Defensor,Pumas (México),Brasil
+135,Danilo,Defensor,Juventus (Italia),Brasil
+136,Alex Sandro,Defensor,Juventus (Italia),Brasil
+137,Alex Telles,Defensor,Sevilla (España),Brasil
+138,Thiago Silva,Defensor,Chelsea (Inglaterra),Brasil
+139,Marquinhos,Defensor,PSG (Francia),Brasil
+140,Éder Militao,Defensor,Real Madrid (España),Brasil
+141,Bremer,Defensor,Juventus (Italia),Brasil
+142,Fabinho,Volante,Liverpool (Inglaterra),Brasil
+143,Casemiro,Volante,Manchester United (Inglaterra),Brasil
+144,Fred,Volante,Manchester United (Inglaterra),Brasil
+145,Bruno Guimaraes,Volante,Newcastle (Inglaterra),Brasil
+146,Éverton Ribeiro,Volante,Flamengo,Brasil
+147,Lucas Paquetá,Volante,West Ham (Inglaterra),Brasil
+148,Neymar,Delantero,PSG (Francia),Brasil
+149,Antony,Delantero,Manchester United (Inglaterra),Brasil
+150,Raphinha,Delantero,Barcelona (España),Brasil
+151,Vinicius Júnior,Delantero,Real Madrid (España),Brasil
+152,Richarlison,Delantero,Tottenham (Inglaterra),Brasil
+153,Gabriel Jesus,Delantero,Arsenal (Inglaterra),Brasil
+154,Rodrygo,Delantero,Real Madrid (España),Brasil
+155,Pedro,Delantero,Flamengo,Brasil
+156,Gabriel Martinelli,Delantero,Arsenal (Inglaterra),Brasil
+157,James Pantemis,Portero,CF Montreal,Canada
+158,Milan Borjan,Portero,Red Star Belgrado (Serbia),Canada
+159,Dayne St. Clair,Portero,Minnesota United (Estados Unidos),Canada
+160,Samuel Adekugbe,Defensor,Hatayspor (Turquía),Canada
+161,Joel Waterman,Defensor,CF Montreal,Canada
+162,Alistair Johnston,Defensor,CF Montreal,Canada
+163,Richie Laryea,Defensor,Toronto FC,Canada
+164,Kamal Miller,Defensor,CF Montreal,Canada
+165,Steven Vitoria,Defensor,GD Chaves (Portugal),Canada
+166,Derek Cornelius,Defensor,Panetolikos (Grecia),Canada
+167,Liam Fraser,Mediocampista,KMSK Deinze (Bélgica),Canada
+168,Ismael Koné,Mediocampista,CF Montreal,Canada
+169,Mark Anthony Kaye,Mediocampista,Toronto FC,Canada
+170,David Wotherspoon,Mediocampista,St. Johnstone (Escocia),Canada
+171,Jonathan Osorio,Mediocampista,Toronto FC,Canada
+172,Atiba Hutchinson,Mediocampista,Besiktas (Turquía),Canada
+173,Stephen Eustaquio,Mediocampista,FC Porto (Portugal),Canada
+174,Samuel Piette,Mediocampista,CF Montreal,Canada
+175,Liam Millar,Delantero,Basilea (Suiza),Canada
+176,Lucas Cavallini,Delantero,Vancouver Whitecaps,Canada
+177,Ike Ugbo,Delantero,Troyes (Francia),Canada
+178,Tajon Buchanan,Delantero,Club Brugge (Bélgica),Canada
+179,Jonathan David,Delantero,Lille (Francia),Canada
+180,Cyle Larin,Delantero,Club Brugge (Bélgica),Canada
+181,Alphonso Davies,Delantero,Bayern Múnich (Alemania),Canada
+182,Junior Hoilett,Delantero,Reading FC (Inglaterra),Canada
+183,André Onana,Portero,Inter (Italia),Camerun
+184,Simon Ngapandouetnbu,Portero,Marsella (Francia),Camerun
+185,Devis Epassy,Portero,Abha (Arabia Saudita),Camerun
+186,Jean-Charles Castelletto,Defensor,Nantes (Francia),Camerun
+187,Enzo Ebosse,Defensor,Udinese (Italia),Camerun
+188,Collins Fai,Defensor,Al-Tai (Arabia Saudita),Camerun
+189,Nouhou Tolo,Defensor,Seattle Sounders (Estados Unidos),Camerun
+190,Olivier Mbaizo,Defensor,Philadelphia Union (Estados Unidos),Camerun
+191,Nicolas Nkoulou,Defensor,Aris (Grecia),Camerun
+192,Christopher Wooh,Defensor,Rennes (Francia),Camerun
+193,Olivier Ntcham,Volante,Swansea (Gales),Camerun
+194,Gael Ondoa,Volante,Hannover 96 (Alemania),Camerun
+195,Martin Hongla,Volante,Hellas Verona (Italia),Camerun
+196,Pierre Kunde,Volante,Olympiacos (Grecia),Camerun
+197,Samuel Oum Gouet,Volante,Mechelen (Bélgica),Camerun
+198,André-Frank Zambo Anguissa,Volante,Napoli (Italia),Camerun
+199,Moumi Ngamaleu,Volante,Young Boys (Suiza),Camerun
+200,JérômeNgomMbekeli,Volante,Colombe Sportive,Camerun
+201,Souaibou Marou,Delantero,Coton Sport,Camerun
+202,Christian Bassogog,Delantero,Shanghai Shenhua (China),Camerun
+203,Bryan Mbeumo,Delantero,Brentford (Inglaterra),Camerun
+204,Jean-Pierre Nsame,Delantero,Young Boys (Suiza),Camerun
+205,Georges-Kévin Nkoudou,Delantero,Besiktas (Turquía),Camerun
+206,Karl Toko Ekambi,Delantero,Lyon (Francia),Camerun
+207,Vincent Aboubakar,Delantero,Al-Nassr (Arabia Saudita),Camerun
+208,Eric Maxim Choupo-Moting,Delantero,Bayern Múnich (Alemania),Camerun
+209,Dominik Livakovic,Portero,Dinamo Zagreb,Croacia
+210,Ivica Ivusic,Portero,Osijek,Croacia
+211,Ivo Grbic,Portero,Atlético de Madrid (España),Croacia
+212,Josip Stanisic,Defensor,Bayern Múnich (Alemania),Croacia
+213,Borna Barisic,Defensor,Rangers (Escocia),Croacia
+214,Josip Sutalo,Defensor,Dinamo Zagreb,Croacia
+215,Dejan Lovren,Defensor,Zenit St Petersburg (Rusia),Croacia
+216,Borna Sosa,Defensor,Stuttgart (Alemania),Croacia
+217,Josko Gvardiol,Defensor,RB Leipzig (Alemania),Croacia
+218,Domagoj Vida,Defensor,AEK Atenas (Grecia),Croacia
+219,Josip Juranovic,Defensor,Celtic (Escocia),Croacia
+220,Martin Erlic,Defensor,Sassuolo (Italia),Croacia
+221,Lovro Majer,Volante,Rennes (Francia),Croacia
+222,Mateo Kovacic,Volante,Chelsea (Inglaterra),Croacia
+223,Luka Modric,Volante,Real Madrid (España),Croacia
+224,Marcelo Brozovic,Volante,Inter (Italia),Croacia
+225,Mario Pasalic,Volante,Atalanta (Italia),Croacia
+226,Nikola Vlasic,Volante,Torino (Italia),Croacia
+227,Luka Sucic,Volante,RB Salzburgo (Austria),Croacia
+228,Kristijan Jakic,Volante,Eintracht Frankfurt (Alemania),Croacia
+229,Ivan Perisic,Delantero,Tottenham (Inglaterra),Croacia
+230,Andrej Kramaric,Delantero,Hoffenheim (Alemania),Croacia
+231,Marko Livaja,Delantero,Hajduk Split,Croacia
+232,Bruno Petkovic,Delantero,Dinamo Zagreb,Croacia
+233,Ante Budimir,Delantero,Osasuna (España),Croacia
+234,Mislav Orsic,Delantero,Dinamo Zagreb,Croacia
+235,Kasper Schmeichel,Portero,Niza (Francia),Dinamarca
+236,Frederik Ronnow,Portero,Unión Berlín (Alemania),Dinamarca
+237,Oliver Christensen,Portero,Hertha Berlín (Alemania),Dinamarca
+238,Simon Kjaer,Defensor,Milan (Italia),Dinamarca
+239,Andreas Christensen,Defensor,Barcelona (España),Dinamarca
+240,Jens Stryger Larsen,Defensor,Trabzonspor (Turquía),Dinamarca
+241,Daniel Wass,Defensor,Brondby,Dinamarca
+242,Joakim Maehle,Defensor,Atalanta (Italia),Dinamarca
+243,Joachim Andersen,Defensor,Crystal Palace (Inglaterra),Dinamarca
+244,Rasmus Kristensen,Defensor,Leeds (Inglaterra),Dinamarca
+245,Victor Nelsson,Defensor,Galatasaray (Turquía),Dinamarca
+246,Alexander Bah,Defensor,Bénfica (Portugal),Dinamarca
+247,Christian Eriksen,Volante,Manchester United (Inglaterra),Dinamarca
+248,Thomas Delaney,Volante,Sevilla (España),Dinamarca
+249,Pierre-Emile Hojbjerg,Volante,Tottenham Hotspur (Inglaterra),Dinamarca
+250,Mathias Jensen,Volante,Brentford (Inglaterra),Dinamarca
+251,Christian Norgaard,Volante,Brentford (Inglaterra),Dinamarca
+252,Yussuf Poulsen,Delantero,RB Leipzig (Alemania),Dinamarca
+253,Martin Braithwaite,Delantero,Espanyol (España),Dinamarca
+254,Andreas Cornelius,Delantero,Copenhague,Dinamarca
+255,Kasper Dolberg,Delantero,Sevilla (España),Dinamarca
+256,Andreas Skov Olsen,Delantero,Brujas (Bélgica),Dinamarca
+257,Mikkel Damsgaard,Delantero,Brentford (Inglaterra),Dinamarca
+258,Jonas Wind,Delantero,Wolfsburgo (Alemania),Dinamarca
+259,Robert Skov,Delantero,Hoffenheim (Alemania),Dinamarca
+260,Jesper Lindstrom,Delantero,Eintracht Frankfurt (Alemania),Dinamarca
+261,Moisés Ramírez,Portero,Independiente del Valle,Ecuador
+262,Alexander Domínguez,Portero,LDU Quito,Ecuador
+263,Hernán Galíndez,Portero,Aucas,Ecuador
+264,Piero Hincapié,Defensor,Bayer Leverkusen (Alemania),Ecuador
+265,Robert Arboleda,Defensor,São Paulo (Brasil),Ecuador
+266,Pervis Estupiñán,Defensor,Brighton (Inglaterra),Ecuador
+267,Angelo Preciado,Defensor,KRC Genk (Bélgica),Ecuador
+268,Jackson Porozo,Defensor,Troyes (Francia),Ecuador
+269,Xavier Arreaga,Defensor,Seattle Sounders (Estados Unidos),Ecuador
+270,Diego Palacios,Defensor,LAFC (Estados Unidos),Ecuador
+271,Félix Torres,Defensor,Santos (México),Ecuador
+272,William Pacho,Defensor,Royal Amberes (Bélgica),Ecuador
+273,Carlos Gruezo,Mediocampista,Augsburgo (Alemania),Ecuador
+274,José Cifuentes,Mediocampista,LAFC (Estados Unidos),Ecuador
+275,Alan Franco,Mediocampista,Talleres (Argentina),Ecuador
+276,Moisés Caicedo,Mediocampista,Brighton (Inglaterra),Ecuador
+277,Ángel Mena,Mediocampista,León (México),Ecuador
+278,Jeremy Sarmiento,Mediocampista,Brighton (Inglaterra),Ecuador
+279,Jhegson Méndez,Mediocampista,LAFC (Estados Unidos),Ecuador
+280,Ayrton Preciado,Mediocampista,Santos (México),Ecuador
+281,Gonzalo Plata,Mediocampista,Valladolid (España),Ecuador
+282,Romario Ibarra,Mediocampista,Pachuca (México),Ecuador
+283,Djorkaeff Reasco,Delantero,Newell's (Argentina),Ecuador
+284,Kevin Rodríguez,Delantero,Imbabura,Ecuador
+285,Michael Estrada,Delantero,Cruz Azul (México),Ecuador
+286,Enner Valencia,Delantero,Fenerbahce (Turquía),Ecuador
+287,Keylor Navas,Portero,Paris Saint-Germain (Francia),Costa Rica
+288,Esteban Alvarado,Portero,Herediano,Costa Rica
+289,Patrick Sequeira,Portero,Lugo (España),Costa Rica
+290,Francisco Calvo,Defensor,Konyaspor (Turquía),Costa Rica
+291,Juan Pablo Vargas,Defensor,Millonarios (Colombia),Costa Rica
+292,Kendall Waston,Defensor,Saprissa,Costa Rica
+293,Óscar Duarte,Defensor,Al-Wehda (Arabia Saudita),Costa Rica
+294,Daniel Chacón,Defensor,Colorado Rapids (Estados Unidos),Costa Rica
+295,Keysher Fuller,Defensor,Herediano,Costa Rica
+296,Carlos Martínez,Defensor,San Carlos,Costa Rica
+297,Bryan Oviedo,Defensor,Real Salt Lake (Estados Unidos),Costa Rica
+298,Ronald Matarrita,Defensor,Cincinnati (Estados Unidos),Costa Rica
+299,Yeltsin Tejeda,Volante,Herediano,Costa Rica
+300,Celso Borges,Volante,Alajuelense,Costa Rica
+301,Youstin Salas,Volante,Saprissa,Costa Rica
+302,Roan Wilson,Volante,Municipal Grecia,Costa Rica
+303,Gerson Torres,Volante,Herediano,Costa Rica
+304,Douglas López,Volante,Herediano,Costa Rica
+305,Jewison Bennette,Volante,Sunderland (Inglaterra),Costa Rica
+306,Álvaro Zamora,Volante,Saprissa,Costa Rica
+307,Anthony Hernández,Volante,Puntarenas FC,Costa Rica
+308,Brandon Aguilera,Volante,Nottingham Forest (Inglaterra),Costa Rica
+309,Bryan Ruiz,Volante,Alajuelense,Costa Rica
+310,Joel Campbell,Delantero,León (México),Costa Rica
+311,Anthony Contreras,Delantero,Herediano,Costa Rica
+312,Johan Venegas,Delantero,Alajuelense,Costa Rica
+313,Unai Simón,Portero,Athletic Bilbao,España
+314,Robert Sánchez,Portero,Brighton (Inglaterra),España
+315,David Raya,Portero,Brentford (Inglaterra),España
+316,Jordi Alba,Defensor,Barcelona,España
+317,Daniel Carvajal,Defensor,Real Madrid,España
+318,Eric García,Defensor,Barcelona,España
+319,Aymeric Laporte,Defensor,Manchester City (Inglaterra),España
+320,César Azpilicueta,Defensor,Chelsea (Inglaterra),España
+321,Pau Torres,Defensor,Villarreal,España
+322,Alejandro Balde,Defensor,Barcelona,España
+323,Hugo Guillamón,Defensor,Valencia,España
+324,Pedri,Mediocampista,Barcelona,España
+325,Gavi,Mediocampista,Barcelona,España
+326,Sergio Busquets,Mediocampista,Barcelona,España
+327,Rodri,Mediocampista,Manchester City (Inglaterra),España
+328,Marcos Llorente,Mediocampista,Atlético de Madrid,España
+329,Koke,Mediocampista,Atlético de Madrid,España
+330,Carlos Soler,Mediocampista,PSG (Francia),España
+331,Nico Williams,Delantero,Athletic Bilbao,España
+332,Yéremy Pino,Delantero,Villarreal,España
+333,Ansu Fati,Delantero,Barcelona,España
+334,Ferran Torres,Delantero,Barcelona,España
+335,Marco Asensio,Delantero,Real Madrid,España
+336,Álvaro Morata,Delantero,Atlético de Madrid,España
+337,Dani Olmo,Delantero,RB Leipzig (Alemania),España
+338,Pablo Sarabia,Delantero,PSG (Francia),España
+339,Ethan Horvat,Portero,Luton Town (Inglaterra),EEUU
+340,Sean Johnson,Portero,New York City FC,EEUU
+341,Matt Turner,Portero,Arsenal (Inglaterra),EEUU
+342,Cameron Carter-Vickers,Defensor,Celtic (Escocia),EEUU
+343,Sergiño Dest,Defensor,Milan (Italia),EEUU
+344,Aaron Long,Defensor,New York Red Bulls,EEUU
+345,Shaq Moore,Defensor,Nashville SC,EEUU
+346,Tim Ream,Defensor,Fulham (Inglaterra),EEUU
+347,Antonee Robinson,Defensor,Fulham (Inglaterra),EEUU
+348,Joe Scally,Defensor,B. Mönchengladbach (Alemania),EEUU
+349,DeAndre Yedlin,Defensor,Inter Miami CF,EEUU
+350,Walker Zimmerman,Defensor,Nashville SC,EEUU
+351,Brenden Aaronson,Mediocampista,Leeds United (Inglaterra),EEUU
+352,Kellyn Acosta,Mediocampista,LAFC,EEUU
+353,Tyler Adams,Mediocampista,Leeds United (Inglaterra),EEUU
+354,Luca de la Torre,Mediocampista,Celta de Vigo (España),EEUU
+355,Weston McKennie,Mediocampista,Juventus (Italia),EEUU
+356,Yunus Musah,Mediocampista,Valencia (España),EEUU
+357,Cristian Roldan,Mediocampista,Seattle Sounders,EEUU
+358,Jesús Ferreira,Delantero,FC Dallas,EEUU
+359,Jordan Morris,Delantero,Seattle Sounders,EEUU
+360,Christian Pulisic,Delantero,Chelsea (Inglaterra),EEUU
+361,Gio Reyna,Delantero,Borussia Dortmund (Alemania),EEUU
+362,Josh Sargent,Delantero,Norwich City (Inglaterra),EEUU
+363,Tim Weah,Delantero,Lille (Francia),EEUU
+364,Haji Wright,Delantero,Antalyaspor (Turquía),EEUU
+365,Hugo Lloris,Portero,Tottenham (Inglaterra),Francia
+366,Steve Mandanda,Portero,Stade Rennois,Francia
+367,Alphonse Aréola,Portero,West Ham (Inglaterra),Francia
+368,Raphael Varane,Defensor,Manchester United (Inglaterra),Francia
+369,Jules Koundé,Defensor,Barcelona (España),Francia
+370,Theo Hernández,Defensor,Milan (Italia),Francia
+371,Dayot Upamecano,Defensor,Bayern Múnich (Alemania),Francia
+372,Ibrahima Konaté,Defensor,Liverpool (Inglaterra),Francia
+373,Axel Disasi*,Defensor,Mónaco,Francia
+374,William Saliba,Defensor,Arsenal (Inglaterra),Francia
+375,Benjamin Pavard,Defensor,Bayern Múnich (Alemania),Francia
+376,Lucas Hernández,Defensor,Bayern Múnich (Alemania),Francia
+377,Eduardo Camavinga,Volante,Real Madrid (España),Francia
+378,Aurélien Tchouaméni,Volante,Real Madrid (España),Francia
+379,Kingsley Coman,Volante,Bayern Múnich (Alemania),Francia
+380,Adrien Rabiot,Volante,Juventus (Italia),Francia
+381,Youssouf Fofana,Volante,Mónaco,Francia
+382,Mattéo Guendouzi,Volante,Marsella,Francia
+383,Jordan Veretout,Volante,Marsella,Francia
+384,Kylian Mbappé,Delantero,PSG,Francia
+385,Antoine Griezmann,Delantero,Atlético de Madrid (España),Francia
+386,Ousmane Dembélé,Delantero,Barcelona (España),Francia
+387,Olivier Giroud,Delantero,Milan (Italia),Francia
+388,Marcus Thuram,Delantero,Borussia Monchengladbach (Alemania),Francia
+389,Randal Kolo Muani**,Delantero,Eintracht Frankfurt (Alemania),Francia
+390,Wayne Hennessey,Portero,Nottingham Forest (Inglaterra),Gales
+391,Danny Ward,Portero,Leicester (Inglaterra),Gales
+392,Adam Davies,Portero,Sheffield United (Inglaterra),Gales
+393,Ben Davies,Defensor,Tottenham (Inglaterra),Gales
+394,Ben Cabango,Defensor,Swansea,Gales
+395,Tom Lockyer,Defensor,Luton Town (Inglaterra),Gales
+396,Joe Rodon,Defensor,Rennes (Francia),Gales
+397,Chris Mepham,Defensor,Bournemoutht (Inglaterra),Gales
+398,Ethan Ampadu,Defensor,Spezia (Italia),Gales
+399,Chris Gunter,Defensor,Wimbledon (Inglaterra),Gales
+400,Neco Williams,Defensor,Nottingham Forest (Inglaterra),Gales
+401,Connor Roberts,Defensor,Burnley (Inglaterra),Gales
+402,Joe Allen,Volante,Swansea,Gales
+403,Matt Smith,Volante,MK Dons (Inglaterra),Gales
+404,Dylan Levitt,Volante,Dundee United (Escocia),Gales
+405,Joe Morrell,Volante,Portsmouth (Inglaterra),Gales
+406,Jonny Williams,Volante,Swindon Town (Inglaterra),Gales
+407,Aaron Ramsey,Volante,Niza (Francia),Gales
+408,Harry Wilson,Volante,Fulham (Inglaterra),Gales
+409,Rubin Colwill,Delantero,Cardiff City,Gales
+410,Sorba Thomas,Delantero,Huddersfield (Inglaterra),Gales
+411,Gareth Bale,Delantero,Los Angeles FC (Estados Unidos),Gales
+412,Kieffer Moore,Delantero,Bournemouth (Inglaterra),Gales
+413,Mark Harris,Delantero,Cardiff City,Gales
+414,Brennan Johnson,Delantero,Nottingham Forest (Inglaterra),Gales
+415,Dan James,Delantero,Leeds (Inglaterra),Gales
+416,Lawrence Ati Zigi,Arquero,St. Gallen (Suiza),Ghana
+417,Abdul Manaf Nurudeen,Arquero,Eupen (Bélgica),Ghana
+418,Ibrahim Danlad,Arquero,Berekum Chelsea,Ghana
+419,Tariq Lamptey,Defensor,Tariq Lamptey (Brighton),Ghana
+420,Alidu Seidu,Defensor,Clermont Foot (Francia),Ghana
+421,Alexander Djiku,Defensor,Estrasburgo (Francia),Ghana
+422,Gideon Mensah,Defensor,Auxerre (Francia),Ghana
+423,Dennis Odoi,Defensor,Brugge (Bélgica),Ghana
+424,Daniel Amartey,Defensor,Leicester City (Inglaterra),Ghana
+425,Mohammed Salisu,Defensor,Southampton (Inglaterra),Ghana
+426,Joseph Aidoo,Defensor,Celta (España),Ghana
+427,Baba Abdul Rahman,Defensor,Reading (Inglaterra),Ghana
+428,Andre Ayew,Mediocampista,Al Sadd (Qatar),Ghana
+429,Mohammed Kudus,Mediocampista,Ajax (Países Bajos),Ghana
+430,Abdul Fatawu Issahaku,Mediocampista,Sporting CP (Portugal),Ghana
+431,Thomas Partey,Mediocampista,Arsenal (Inglaterra),Ghana
+432,Antoine Semenyo,Mediocampista,Bristol City (Inglaterra),Ghana
+433,Elisha Owusu,Mediocampista,Gent (Bélgica),Ghana
+434,Sowah Kamal,Mediocampista,Brugge (Bélgica),Ghana
+435,Kamaldeen Sulemana,Mediocampista,Rennes (Francia),Ghana
+436,Daniel Kofi Kyereh,Delantero,Freiburg (Alemania),Ghana
+437,Abdul Salis Samed,Delantero,Lens (Francia),Ghana
+438,Osman Bukari,Delantero,Red Star Belgrade (Serbia),Ghana
+439,Daniel Afriyie Barnieh,Delantero,Hearts of Oak,Ghana
+440,Iñaki Williams,Delantero,Athletic Club (España),Ghana
+441,Jordan Ayew,Delantero,Crystal Palace (Inglaterra),Ghana
+442,Alireza Beiranvand,Portero,Persépolis,Iran
+443,Amir Abedzadeh,Portero,Ponferradina (España),Iran
+444,Hossein Hosseini,Portero,Esteghlal,Iran
+445,Payam Niazmand,Portero,Sepahan,Iran
+446,Majid Hosseini,Defensor,Kayserispor (Turquía),Iran
+447,Hossein Kanaani,Defensor,Al-Ahli SC (Qatar),Iran
+448,Shoja Khalilzadeh,Defensor,Al-Ahli SC (Qatar),Iran
+449,Morteza Pouraliganji,Defensor,Persépolis,Iran
+450,Sadegh Moharrami,Defensor,Dinamo Zagreb (Croacia),Iran
+451,Milad Mohammadi,Defensor,AEK Atenas (Grecia),Iran
+452,Ehsan Hajsafi,Defensor,AEK Atenas (Grecia),Iran
+453,Ramin Rezaeian,Defensor,Sepahan,Iran
+454,Abolfazl Jalali,Defensor,Esteghlal,Iran
+455,Saeid Ezatolahi,Mediocampista,Vejle BK (Dinamarca),Iran
+456,Ali Karimi,Mediocampista,Kayserispor (Turquía),Iran
+457,Ahmad Nourollahi,Mediocampista,Shabab Dubai (E. Árabes Unidos),Iran
+458,Rouzbeh Cheshmi,Mediocampista,Esteghlal,Iran
+459,Saman Ghoddos,Mediocampista,Brentford (Inglaterra),Iran
+460,Vahid Amiri,Delantero,Persépolis,Iran
+461,Alireza Jahanbakhsh,Delantero,Feyenoord (Países Bajos),Iran
+462,Ali Gholizadeh,Delantero,RSC Charleroi (Bélgica),Iran
+463,Mehdi Torabi,Delantero,Persépolis,Iran
+464,Sardar Azmoun,Delantero,Bayer Leverkusen (Alemania),Iran
+465,Mehdi Taremi,Delantero,Porto (Portugal),Iran
+466,Karim Ansarifard,Delantero,Omonia Nicosia (Chipre),Iran
+467,Eiji Kawashima,Portero,Estrasburgo (Francia),Japon
+468,Shuichi Gonda,Portero,Shimizu E-pulse,Japon
+469,Daniel Schmidt,Portero,Sint-Truiden (Bélgica),Japon
+470,Yuto Nagatomo,Defensor,FC Tokyo,Japon
+471,Maya Yoshida,Defensor,Schalke 04 (Alemania),Japon
+472,Hiroki Sakai,Defensor,Urawa Reds,Japon
+473,Shogo Taniguchi,Defensor,Kawasaki Frontale,Japon
+474,Miki Yamane,Defensor,Kawasaki Frontale,Japon
+475,Ko Itakura,Defensor,Borussia Monchengladbach (Alemania),Japon
+476,Hiroki Ito,Defensor,Stuttgart (Alemania),Japon
+477,Takehiro Tomiyasu,Defensor,Arsenal (Inglaterra),Japon
+478,Gaku Shibasaki,Volante,Leganés (España),Japon
+479,Wataru Endo,Volante,Stuttgart (Alemania),Japon
+480,Junya Ito,Volante,Reims (Francia),Japon
+481,Ritsu Doan,Volante,Friburgo (Alemania),Japon
+482,Takumi Minamino,Volante,Mónaco (Francia),Japon
+483,Hidemasa Morita,Volante,Sporting Lisboa (Portugal),Japon
+484,Daichi Kamada,Volante,Eintracht Frankfurt (Alemania),Japon
+485,Yuki Soma,Volante,Nagoya Grampus,Japon
+486,Kaoru Mitoma,Volante,Brighton (Inglaterra),Japon
+487,Ao Tanaka,Volante,Fortuna Düsseldorf (Alemania),Japon
+488,Takefusa Kubo,Volante,Real Sociedad (España),Japon
+489,Daizen Maeda,Delantero,Celtic (Escocia),Japon
+490,Takuma Asano,Delantero,Bochum (Alemania),Japon
+491,Ayase Ueda,Delantero,Círculo de Brujas (Bélgica),Japon
+492,Shuto Machino*,Delantero,Shonan Bellmare,Japon
+493,Justin Bijlow,Portero,Feyenoord (Países Bajos),Holanda
+494,Andries Noppert,Portero,Heerenveen (Países Bajos),Holanda
+495,Remko Pasveer,Portero,Ajax (Países Bajos),Holanda
+496,Nathan Aké,Defensor,Manchester City (Inglaterra),Holanda
+497,Virgil van Dijk,Defensor,Liverpool (Inglaterra),Holanda
+498,Jeremie Frimpong,Defensor,Bayer Leverkusen (Alemania),Holanda
+499,Stefan de Vrij,Defensor,Inter (Italia),Holanda
+500,Daley Blind,Defensor,Ajax (Países Bajos),Holanda
+501,Matthijs de Ligt,Defensor,Bayern Múnich (Alemania),Holanda
+502,Tyrell Malacia,Defensor,Manchester United (Inglaterra),Holanda
+503,Jurrien Timber,Defensor,Ajax (Países Bajos),Holanda
+504,Denzel Dumfries,Defensor,Inter (Italia),Holanda
+505,Frenkie De Jong,Mediocampista,Barcelona (España),Holanda
+506,Davy Klaassen,Mediocampista,Ajax (Países Bajos),Holanda
+507,Xavi Simons,Mediocampista,PSV (Países Bajos),Holanda
+508,Steven Berghuis,Mediocampista,Ajax (Países Bajos),Holanda
+509,Marten de Roon,Mediocampista,Atalanta (Italia),Holanda
+510,Kenneth Taylor,Mediocampista,Ajax (Países Bajos),Holanda
+511,Teun Koopmeiners,Mediocampista,Atalanta (Italia),Holanda
+512,Memphis Depay,Delantero,Barcelona (España),Holanda
+513,Steven Bergwijn,Delantero,Ajax (Países Bajos),Holanda
+514,Cody Gakpo,Delantero,PSV (Países Bajos),Holanda
+515,Wout Weghorst,Delantero,Besiktas (Turquía),Holanda
+516,Vincent Janssen,Delantero,Royal Antwerp (Bélgica),Holanda
+517,Luuk de Jong,Delantero,PSV (Países Bajos),Holanda
+518,Noa Lang,Delantero,Brujas (Bélgica),Holanda
+519,Saad Al Sheeb,Portero,Al-Sadd,Qatar
+520,Meshaal Barsham,Portero,Al-Sadd,Qatar
+521,Yousuf Hassan,Portero,Al-Gharafa,Qatar
+522,Pedro Miguel,Defensor,Al-Sadd,Qatar
+523,Musaab Khidir,Defensor,Al-Sadd,Qatar
+524,Tarek Salman,Defensor,Al-Sadd,Qatar
+525,Bassam Al Rawi,Defensor,Al-Duhail,Qatar
+526,Khoukhi Boualem,Defensor,Al-Sadd,Qatar
+527,Abdelkarim Hassan,Defensor,Al-Sadd,Qatar
+528,Homam Al Amin,Defensor,Al-Gharafa,Qatar
+529,Jassim Jabir,Defensor,Al-Waab,Qatar
+530,Ismaeel Mohammad,Mediocampista,Villarreal (España),Qatar
+531,Ali Asad,Mediocampista,Al-Sadd,Qatar
+532,Mohammed Waad,Mediocampista,Al-Sadd,Qatar
+533,Salem Al Hajri,Mediocampista,Al-Sadd,Qatar
+534,Assim Madibo,Mediocampista,Al-Duhail,Qatar
+535,Mustafa Meshaal,Mediocampista,Al-Sadd,Qatar
+536,Karim Boudiaf,Mediocampista,Al-Duhail,Qatar
+537,Abdulaziz Hatim,Mediocampista,Al-Rayyan,Qatar
+538,Naif Al Hadhrami,Delantero,Al-Rayyan,Qatar
+539,Hassan Al Haydos,Delantero,Al-Sadd,Qatar
+540,Akram Afif,Delantero,Al-Sadd,Qatar
+541,Almoez Ali,Delantero,Al-Duhail,Qatar
+542,Mohammed Muntari,Delantero,Al-Duhail,Qatar
+543,Ahmed Alaa,Delantero,Al-Gharafa,Qatar
+544,Khalid Muneer,Delantero,Al-Wakrah,Qatar
+545,Yan Sommer,Portero,Borussia Monchengladbach (Alemania),Suiza
+546,Jonas Omlin,Portero,Montpellier (Francia),Suiza
+547,Gregor Kobel,Portero,Borussia Dortmund (Alemania),Suiza
+548,Philipp Köhn,Portero,RB Salzburg (Austria),Suiza
+549,Ricardo Rodriguez,Defensor,Torino (Italia),Suiza
+550,Fabian Schar,Defensor,Newcastle (Inglaterra),Suiza
+551,Manuel Akanji,Defensor,Manchester City (Inglaterra),Suiza
+552,Nico Elvedi,Defensor,Borussia Monchengladbach (Alemania),Suiza
+553,Silvan Widmer,Defensor,Mainz 05 (Alemania),Suiza
+554,Eray Comert,Defensor,Valencia (España),Suiza
+555,Xherdan Shaqiri,Volante,Chicago Fire (Estados Unidos),Suiza
+556,Granit Xhaka,Volante,Arsenal (Inglaterra),Suiza
+557,Remo Freuler,Volante,Nottingham Forest (Inglaterra),Suiza
+558,Denis Zakaria,Volante,Chelsea (Inglaterra),Suiza
+559,Djibril Sow,Volante,Eintracht Frankfurt (Alemania),Suiza
+560,Renato Steffen,Volante,Lugano,Suiza
+561,Fabian Frei,Volante,Basilea,Suiza
+562,Michel Aebischer,Volante,Bolonia (Italia),Suiza
+563,Ardon Jashari,Volante,Luzern,Suiza
+564,Edimilson Fernandes,Volante,Mainz 05 (Alemania),Suiza
+565,Fabian Rieder,Volante,Young Boys,Suiza
+566,Haris Seferovic,Delantero,Galatasaray (Turquía),Suiza
+567,Breel Embolo,Delantero,Mónaco (Francia),Suiza
+568,Ruben Vargas,Delantero,Augsburg (Alemania),Suiza
+569,Noah Okafor,Delantero,RB Salzburg (Austria),Suiza
+570,Christian Fassnacht,Delantero,Young Boys,Suiza
+571,Yassine Bono,Portero,Sevilla (España),Marruecos
+572,Munir,Portero,Al-Wehda (Arabia Saudita),Marruecos
+573,Ahmed Reda Tagnaouti,Portero,Wydad,Marruecos
+574,Achraf Hakimi,Defensor,PSG (Francia),Marruecos
+575,Noussair Mazraoui,Defensor,Bayern Múnich (Alemania),Marruecos
+576,Romain Saiss,Defensor,Besiktas (Turquía),Marruecos
+577,Nayef Aguerd,Defensor,West Ham (Inglaterra),Marruecos
+578,Achraf Dari,Defensor,Brest (Francia),Marruecos
+579,Jawad El-Yamiq,Defensor,Valladolid (España),Marruecos
+580,Yahia Attiat-Allal,Defensor,Wydad,Marruecos
+581,Badr Benoun,Defensor,Qatar SC (Qatar),Marruecos
+582,Sofyan Amrabat,Mediocampista,Fiorentina (Italia),Marruecos
+583,Selim Amallah,Mediocampista,Standard Lieja (Bëlgica),Marruecos
+584,Abdelhamid Sabiri,Mediocampista,Sampdoria (Italia),Marruecos
+585,Azzedine Ounahi,Mediocampista,Angers (Francia),Marruecos
+586,Bilel El Khanouss,Mediocampista,Genk (Bélgica),Marruecos
+587,Yahya Jabrane,Mediocampista,Wydad,Marruecos
+588,Haim Ziyech,Delantero,Chelsea (Inglaterra),Marruecos
+589,Youssef En-Nesyri,Delantero,Sevilla (España),Marruecos
+590,Sofiane Boufal,Delantero,Angers (Francia),Marruecos
+591,Zakaria Aboukhlal,Delantero,Toulouse (Francia),Marruecos
+592,Ez Abdé,Delantero,Osasuna (España),Marruecos
+593,Anass Zaroury*,Delantero,Burnley (Inglaterra),Marruecos
+594,Ilias Chair,Delantero,QPR (Inglaterra),Marruecos
+595,Abderrazak Hamdallah,Delantero,Al-ittihad (Arabia Saudita),Marruecos
+596,Walid Cheddira,Delantero,Bari (Italia),Marruecos
+597,Guillermo Ochoa,Portero,América,Mexico
+598,Alfredo Talavera,Portero,Juárez FC,Mexico
+599,Rodolfo Cota,Portero,León,Mexico
+600,Kevin Álvarez,Defensa,Pachuca,Mexico
+601,Néstor Araujo,Defensa,América,Mexico
+602,Jesús Gallardo,Defensa,Monterrey,Mexico
+603,Héctor Moreno,Defensa,Monterrey,Mexico
+604,César Montes,Defensa,Monterrey,Mexico
+605,Gerardo Arteaga,Defensa,Genk (Bélgica),Mexico
+606,Jorge Sánchez,Defensa,Ajax (Países Bajos),Mexico
+607,Johan Vásquez,Defensa,Cremonese (Italia),Mexico
+608,Luis Romo,Mediocampista,Monterrey,Mexico
+609,Uriel Antuna,Mediocampista,Cruz Azul,Mexico
+610,Luis Chávez,Mediocampista,Pachuca,Mexico
+611,Carlos Rodríguez,Mediocampista,Cruz Azul,Mexico
+612,Edson Álvarez,Mediocampista,Ajax (Países Bajos),Mexico
+613,Héctor Herrera,Mediocampista,Dynamo (EE.UU.),Mexico
+614,Erik Gutiérrez,Mediocampista,PSV (Países Bajos),Mexico
+615,Orbelín Pineda,Mediocampista,AEK Atenas (Grecia),Mexico
+616,Roberto Alvarado,Mediocampista,Chivas,Mexico
+617,Andrés Guardado,Mediocampista,Betis (España),Mexico
+618,Rogelio Funes Mori,Delantero,Monterrey,Mexico
+619,Henry Martín,Delantero,América,Mexico
+620,Raúl Jiménez,Delantero,Wolverhampton (Inglaterra),Mexico
+621,Hirving Lozano,Delantero,Napoli (Italia),Mexico
+622,Alexis Vega,Delantero,Chivas,Mexico
+623,Kamil Grabara*,Arquero,FC Copenhague (Dinamarca),Polonia
+624,Łukasz Skorupski,Arquero,Bologna (Italia),Polonia
+625,Wojciech Szczęsny,Arquero,Juventus (Italia),Polonia
+626,Robert Gumny,Defensor,Augsburg (Alemania),Polonia
+627,Nicola Zalewski,Defensor,Roma (Italia),Polonia
+628,Jan Bednarek,Defensor,Aston Villa (Inglaterra),Polonia
+629,Bartosz Bereszyński,Defensor,Sampdoria (Italia),Polonia
+630,Kamil Glik,Defensor,Benevento (Italia),Polonia
+631,Matty Cash,Defensor,Aston Villa (Inglaterra),Polonia
+632,Mateusz Wieteska,Defensor,Clermont (Francia),Polonia
+633,Jakub Kiwior,Defensor,Spezia (Italia),Polonia
+634,Artur Jędrzejczyk,Defensor,Legia Warsaw,Polonia
+635,Krystian Bielik,Mediocampista,Birmingham (Inglaterra),Polonia
+636,Przemysław Frankowski,Mediocampista,Lens (Francia),Polonia
+637,Kamil Grosicki,Mediocampista,Pogon Szczecin,Polonia
+638,Jakub Kamiński,Mediocampista,Wolfsburg (Alemania),Polonia
+639,Grzegorz Krychowiak,Mediocampista,Al Shabab (Arabia Saudita),Polonia
+640,Michał Skóraś,Mediocampista,Lech Poznan,Polonia
+641,Damian Szymański,Mediocampista,AEK Athens (Grecia),Polonia
+642,Sebastian Szymański,Mediocampista,Feyenoord (Países Bajos),Polonia
+643,Piotr Zieliński,Mediocampista,Napoli (Italia),Polonia
+644,Szymon Żurkowski,Mediocampista,Fiorentina (Italia),Polonia
+645,Robert Lewandowski,Delantero,Barcelona (España),Polonia
+646,Arkadiusz Milik,Delantero,Juventus (Italia),Polonia
+647,Krzysztof Piątek,Delantero,Salernitana (Italia),Polonia
+648,Karol Świderski,Delantero,Charlotte (Estados Unidos),Polonia
+649,Diogo Costa,Portero,Porto,Portugal
+650,Rui Patrício,Portero,Roma (Italia),Portugal
+651,José Sá,Portero,Wolverhampton (Inglaterra),Portugal
+652,Joao Cancelo,Defensor,Manchester City (Inglaterra),Portugal
+653,Diogo Dalot,Defensor,Manchester United (Inglaterra),Portugal
+654,Pepe,Defensor,Porto,Portugal
+655,Rúben Dias,Defensor,Manchester City (Inglaterra),Portugal
+656,Danilo Pereira,Defensor,Paris Saint-Germain (Francia),Portugal
+657,António Silva,Defensor,Benfica,Portugal
+658,Nuno Mendes,Defensor,Paris Saint-Germain (Francia),Portugal
+659,Raphael Guerreiro,Defensor,Borussia Dortmund (Alemania),Portugal
+660,William Carvalho,Mediocampista,Betis (España),Portugal
+661,Rúben Neves,Mediocampista,Wolverhampton (Inglaterra),Portugal
+662,Palhinha,Mediocampista,Fulham (Inglaterra),Portugal
+663,Bruno Fernandes,Mediocampista,Manchester United (Inglaterra),Portugal
+664,Vitinha,Mediocampista,Paris Saint-Germain (Francia),Portugal
+665,Otávio,Mediocampista,Porto,Portugal
+666,Matheus Nunes,Mediocampista,Wolverhampton (Inglaterra),Portugal
+667,Bernardo Silva,Mediocampista,Manchester City (Inglaterra),Portugal
+668,Joao Mario,Mediocampista,Benfica,Portugal
+669,Cristiano Ronaldo,Delantero,Manchester United (Inglaterra),Portugal
+670,Joao Félix,Delantero,Atlético de Madrid (España),Portugal
+671,Rafael Leao,Delantero,Milan (Italia),Portugal
+672,Ricardo Horta,Delantero,Braga,Portugal
+673,André Silva,Delantero,Leipzig (Alemania),Portugal
+674,Gonçalo Ramos,Delantero,Benfica,Portugal
+675,Edouard Mendy,Portero,Chelsea (Inglaterra),Senegal
+676,Alfred Gomis,Portero,Rennes (Francia),Senegal
+677,Seny Dieng,Portero,Queens Park Rangers (Inglaterra),Senegal
+678,Kalidou Koulibaly,Defensor,Chelsea (Inglaterra),Senegal
+679,Pape Abou Cisse,Defensor,Olympiacos (Grecia),Senegal
+680,Abdou Diallo,Defensor,RB Leipzig (Alemania),Senegal
+681,Fodé Ballo-Touré,Defensor,Milan (Italia),Senegal
+682,Formose Mendy,Defensor,Amiens (Francia),Senegal
+683,Ismail Jakobs,Defensor,Monaco (Francia),Senegal
+684,Youssouf Sabaly,Defensor,Betis (España),Senegal
+685,Moussa N'Diaye*,Defensor,Anderlecht (Bélgica),Senegal
+686,Idrissa Gana Gueye,Mediocampista,Everton (Inglaterra),Senegal
+687,Cheikhou Kouyaté,Mediocampista,Nottingham Forest (Inglaterra),Senegal
+688,Nampalys Mendy,Mediocampista,Leicester City (Inglaterra),Senegal
+689,Pape Gueye,Mediocampista,Marsella (Francia),Senegal
+690,Pape Matar Sarr,Mediocampista,Tottenham (Inglaterra),Senegal
+691,Mamadou Loum N'Diaye,Mediocampista,Reading (Inglaterra),Senegal
+692,Moustapha Name,Mediocampista,Pafos (Chipre),Senegal
+693,Pathe Ciss,Mediocampista,Rayo Vallecano (España),Senegal
+694,Ismalia Sarr,Delantero,Watford (Inglaterra),Senegal
+695,Boulaye Dia,Delantero,Salernitana (Italia),Senegal
+696,Bamba Dieng,Delantero,Marsella (Francia),Senegal
+697,Iliman Ndiaye,Delantero,Sheffield United (Inglaterra),Senegal
+698,Famara Diedhou,Delantero,Alanyaspor (Turquía),Senegal
+699,Krepin Diatta,Delantero,Monaco (Francia),Senegal
+700,Nicolas Jackson,Delantero,Villarreal (España),Senegal
+701,Vanja Milinković-Savić,Portero,Torino,Serbia
+702,Predrag Rajkovic,Portero,Mallorca,Serbia
+703,Marko Dmitrovic,Portero,Sevilla,Serbia
+704,Milos Veljkovic,Defensor,Werder Bremen,Serbia
+705,Strahinja Pavlovic,Defensor,Red Bull Salzburgo,Serbia
+706,Strahinja Erakovic,Defensor,Estrella Roja,Serbia
+707,Nikola Milenkovic,Defensor,Fiorentina,Serbia
+708,Stefan Mitrovic,Defensor,Getafe,Serbia
+709,Filip Mladenovic,Defensor,Legia Varsovia,Serbia
+710,Srdjan Babic,Defensor,Almería,Serbia
+711,Nemanja Gudelj,Mediocampista,Sevilla,Serbia
+712,Sergej Milinković-Savić,Mediocampista,Lazio,Serbia
+713,Sasa Lukic,Mediocampista,Torino,Serbia
+714,Filip Kostic,Mediocampista,Juventus,Serbia
+715,Uros Racic,Mediocampista,Sporting Braga,Serbia
+716,Ivan Ilic,Mediocampista,Hellas Verona,Serbia
+717,Andrija Zivkovic,Mediocampista,PAOK,Serbia
+718,Darko Lazovic,Mediocampista,Hellas Verona,Serbia
+719,Nemanja Maksimovic,Mediocampista,Getafe,Serbia
+720,Marko Grujic,Mediocampista,Porto,Serbia
+721,Aleksandar Mitrovic,Delantero,Fulham,Serbia
+722,Filip Djuricic,Delantero,Sampdoria,Serbia
+723,Nemanja Radonjic,Delantero,Torino,Serbia
+724,Luka Jovic,Delantero,Fiorentina,Serbia
+725,Dusan Tadic,Delantero,Ajax,Serbia
+726,Dusan Vlahovic,Delantero,Juventus,Serbia
+727,Aymen Dahmen,Arquero,CS Sfaxien,Tunez
+728,Mouez Hasen,Arquero,Club Africain,Tunez
+729,Balbouli,Arquero,Etoile du Sahel,Tunez
+730,Bechir Ben Said,Arquero,US Monastir,Tunez
+731,Mohamed Drager,Defensor,Luzern (Suiza),Tunez
+732,Wajdi Kechrida,Defensor,Atromitos (Grecia),Tunez
+733,Bilel Ifa,Defensor,Kuwait SC (Kuwait),Tunez
+734,Montassar Talbi,Defensor,Lorient (Francia),Tunez
+735,Dylan Bronn,Defensor,Salernitana (Italia),Tunez
+736,Yassine Meriah,Defensor,ES Tunis,Tunez
+737,Nader Ghandri,Defensor,Club Africain,Tunez
+738,Ali Maaloul,Defensor,Al Ahly (Egipto),Tunez
+739,Ali Abdi,Defensor,Caen (Francia),Tunez
+740,Ellyes Skhiri,Mediocampista,Koln (Alemania),Tunez
+741,Aissa Laidouni,Mediocampista,Ferencvaros (Hungría),Tunez
+742,Ferjani Sassi,Mediocampista,Al Duhail (Qatar),Tunez
+743,Ghailene Chaalali,Mediocampista,ES Tunis,Tunez
+744,Mohamed Ali Ben Romdhane,Mediocampista,ES Tunis,Tunez
+745,Hannibal Mejbri,Mediocampista,Birmingham City (Inglaterra),Tunez
+746,Seifeddine Jaziri,Delantero,Zamalek (Egipto),Tunez
+747,Naim Sliti,Delantero,Al-Ettifaq (Arabia Saudita),Tunez
+748,Taha Yassine Khenissi,Delantero,Kuwait SC (Kuwait),Tunez
+749,Anis Ben Slimane,Delantero,Brondby (Dinamarca),Tunez
+750,Issam Jebali,Delantero,OB (Dinamarca),Tunez
+751,Wahbi Khazri,Delantero,Montpellier (Francia),Tunez
+752,Youssef Msakni,Delantero,Al Arabi (Qatar),Tunez
+753,Fernando Muslera,Portero,Galatasaray (Turquía),Uruguay
+754,Sergio Rochet,Portero,Nacional,Uruguay
+755,Sebastián Sosa,Portero,Independiente (Argentina),Uruguay
+756,Ronald Araújo,Defensor,Barcelona (España),Uruguay
+757,José M. Giménez,Defensor,Atl. de Madrid (España),Uruguay
+758,Sebastián Coates,Defensor,Sporting (Portugal),Uruguay
+759,Diego Godín,Defensor,Vélez (Argentina),Uruguay
+760,Martín Cáceres,Defensor,LA Galaxy (EE.UU.),Uruguay
+761,Guillermo Varela,Defensor,Flamengo (Brasil),Uruguay
+762,José L. Rodríguez,Defensor,Nacional,Uruguay
+763,Mathias Olivera,Defensor,Napoli (Italia),Uruguay
+764,Matías Viña,Defensor,Roma (Italia),Uruguay
+765,Lucas Torreira,Mediocampista,Galatasaray (Turquía),Uruguay
+766,Manuel Ugarte,Mediocampista,Sporting (Portugal),Uruguay
+767,Matías Vecino,Mediocampista,Lazio (Italia),Uruguay
+768,Rodrigo Bentancur,Mediocampista,Tottenham (Inglaterra),Uruguay
+769,Federico Valverde,Mediocampista,Real Madrid (España),Uruguay
+770,Facundo Pellistri,Mediocampista,Manchester United (Inglaterra),Uruguay
+771,Agustín Canobbio,Mediocampista,Athletico Paranaense (Brasil),Uruguay
+772,Nicolás De la Cruz,Mediocampista,River Plate (Argentina),Uruguay
+773,Giorgian De Arrascaeta,Mediocampista,Flamengo (Brasil),Uruguay
+774,Maximiliano Gómez,Delantero,Trabzonspor (Turquía),Uruguay
+775,Facundo Torres,Delantero,Orlando City (EE.UU.),Uruguay
+776,Luis Suárez,Delantero,Nacional,Uruguay
+777,Edinson Cavani,Delantero,Valencia (España),Uruguay
+778,Darwin Núñez,Delantero,Liverpool (Inglaterra),Uruguay

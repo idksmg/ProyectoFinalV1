@@ -1,0 +1,3 @@
+dguzman,123456,dguzman@gmail.com
+esalazar,123456,esalazar
+sguzman,123456,sguzman

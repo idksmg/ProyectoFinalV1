@@ -1,0 +1,6 @@
+1000,Leo Messi,Argentina,Delantero,4
+1001,Cristiano Ronaldo,Portugal,Delantero,4
+1002,Pele,Brasil,Delantero,4
+1003,Diego Maradona,Argentina,Delantero,3
+1004,Johann Cruif,Holand,Defensa,1
+1005,Zinedine Zidane,Francia,Medio,3

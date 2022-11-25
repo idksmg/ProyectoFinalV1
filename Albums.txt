@@ -1,0 +1,8 @@
+324,2022,qatar,100,esazalar
+5676,2022,qatar,100,sguzman
+24037,2022,a,1,dguzman
+27850,2022,qatar,200,sguzman
+78482,2022,qatar,200,sguzman
+90855,2022,qatar,200,sguzman
+27969,2022,qatar,200,sguzman
+3202,2022,qatar,200,sguzman
